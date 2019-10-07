@@ -1,0 +1,17 @@
+{
+  "name": "express-socketio-chat",
+  "version": "1.0.0",
+  "description": "Simple chat",
+  "author": "Genki Sano",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "socket.io": "^2.2.0"
+  }
+}
