@@ -9,7 +9,7 @@ Simple Chat built with Node.js, Socket.io, Express.
 git clone https://github.com/genki-sano/express-socketio-chat.git
 
 # change directory
-cd todo-list
+cd express-socketio-chat
 
 # install dependencies
 npm i
